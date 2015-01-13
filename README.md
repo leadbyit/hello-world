@@ -1,5 +1,3 @@
-# hello-world
-Example repository creation
 Hello World
 ===========
 
